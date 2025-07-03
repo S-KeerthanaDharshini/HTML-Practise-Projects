@@ -1,0 +1,14 @@
+dt::after{
+    content: ":";
+    
+}
+dt{
+    font-size: larger;
+    font-weight: bold;
+}
+p{
+    font-size: large;
+}
+dd{
+    font-size: large;
+}
