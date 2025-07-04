@@ -13,7 +13,7 @@ This is **Project 5** in my HTML practice series. It is a simple, static HTML pa
 
 
 ## ✨ Output Screenshots
-![output1 screenshot](Favorite%20Quotes%20Collection/output1.png)
-![output2 screenshot](Favorite%20Quotes%20Collection/output2.png)
+![output1 screenshot](output1.png)
+![output2 screenshot](output2.png)
 
 
