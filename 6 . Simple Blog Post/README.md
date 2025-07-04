@@ -15,4 +15,14 @@ Design and develop a simple, elegant blog post page using HTML and CSS that prom
 - External link to eco-friendly wooden product website.
 - Contact section using `<address>` with clickable email and phone.
 
+## Final Output  
+![output1 screenshot](output1.png)
+![output2 screenshot](output2.png)
+![output3 screenshot](output3.png)
+
+
+
+
+
+
 
