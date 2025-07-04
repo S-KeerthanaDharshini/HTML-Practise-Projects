@@ -20,7 +20,7 @@ This is the fourth project in my **HTML Foundation Series**. It is a static HTML
 ## 🖼️ Output Screenshot
 
 
-![Output Screenshot](Inspirational%20Story%20Layout/output.png)
+![Output Screenshot](output.png)
 
 
 
